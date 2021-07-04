@@ -1,0 +1,4 @@
+﻿  Home Work 2.cpp
+D:\ProjectsVS\Курс 2\Home Work 2\Home Work 2.cpp(103,14): error C2011: Person: переопределение типа "class"
+D:\ProjectsVS\Курс 2\Home Work 2\Home Work 2.cpp(7): message : см. объявление "Person"
+D:\ProjectsVS\Курс 2\Home Work 2\Home Work 2.cpp(111,20): error C2504: Person: не определен базовый класс
